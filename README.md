@@ -21,7 +21,8 @@ Generative AI use cases, project lifecycle, and model pre-training
 - Discuss computational challenges during model pre-training and determine how to efficiently reduce memory footprint
 - Define the term scaling law and describe the laws that have been discovered for LLMs related to training dataset size, compute budget, inference requirements, and other factors
 
-
+[Lab 1 - Generative AI Use Case: Summarize Dialogue](https://github.com/say123ali/Generative-AI-with-LLM/blob/main/Lab_1_summarize_dialogue.ipynb)
+## Week2
 Fine-tuning and evaluating large language models
 
 ### Learning Objectives
@@ -32,6 +33,7 @@ Fine-tuning and evaluating large language models
 - Explain how fine-tuning with instructions using prompt datasets can increase LLM performance on one or more 
 
 
+[Lab 2 - Fine-tune a generative AI model for dialogue summarization](https://github.com/say123ali/Generative-AI-with-LLM/blob/main/Lab_2_fine_tune_generative_ai_model.ipynb)
 
 
 
@@ -44,5 +46,5 @@ Reinforcement learning and LLM-powered applications
 - Define chain-of-thought prompting and describe how it can be used to improve LLMs reasoning and planning abilities
 - Discuss the challenges that LLMs face with knowledge cut-offs, and explain how information retrieval and augmentation techniques can overcome these challenges
 
-
+[Lab 3 - Fine-tune FLAN-T5 with reinforcement learning to generate more-positive summaries](https://github.com/say123ali/Generative-AI-with-LLM/blob/main/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 
